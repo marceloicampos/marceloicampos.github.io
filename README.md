@@ -13,7 +13,7 @@ Text
 * Text
 * Text
 
-<img align="right" src="./imagens/benevocats2.png" width="200">
+<img align="right" src="./imagens/collabocats2.png" width="200">
 
 ## Site Glass Html5
 
