@@ -2,7 +2,7 @@
  
 Links dos meus projetos
 
-![](/_imagens/benevocats2.png)
+<img align="right" src="./imagens/benevocats2.png" width="200">
 
 ## Site Hello World
 
@@ -13,9 +13,7 @@ Text
 * Text
 * Text
 
-<img align="right" src="_imagens/collabocats2.png" width="200">
-
-<img align="right" src="https://github.com/marceloicampos/marceloicampos.github.io/blob/master/_imagens/benevocats2.png?raw=true" width="200">
+<img align="right" src="./imagens/benevocats2.png" width="200">
 
 ## Site Glass Html5
 
