@@ -2,13 +2,13 @@
  
 Links dos meus projetos
 
-<img align="right" src="_imagens/benevocats.png" width="200">
+<img align="right" src="_imagens/benevocats2.png" width="200">
 
 ## Site Hello World
 
 * [Acesse aqui o projeto Hello World](https://marceloicampos.github.io/site-hello-world/)
 
-<img align="right" src="_imagens/collabocats.jpg" width="200">
+<img align="right" src="_imagens/collabocats2.png" width="200">
 
 ## Site Glass Html5
 
