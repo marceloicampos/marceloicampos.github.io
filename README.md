@@ -2,7 +2,7 @@
  
 Links dos meus projetos
 
-<img align="right" src="_imagens/benevocats2.png" width="200">
+![](/_imagens/benevocats2.png)
 
 ## Site Hello World
 
