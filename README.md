@@ -8,7 +8,7 @@ Links dos meus projetos
 
 Text
 
-* [Acesse aqui o projeto Hello World](https://marceloicampos.github.io/site-hello-world/ target="_blank")
+* [Acesse aqui o projeto Hello World](https://marceloicampos.github.io/site-hello-world/)
 * Text
 * Text
 * Text
@@ -19,8 +19,7 @@ Text
 
 Text
 
-* [Acesse aqui o projeto Glass Html5](https://marceloicampos.github.io/site-glass-html5/ target="_blank")
+* [Acesse aqui o projeto Glass Html5](https://marceloicampos.github.io/site-glass-html5/)
 * Text
 * Text
 * Text
-
