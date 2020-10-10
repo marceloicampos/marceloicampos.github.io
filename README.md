@@ -1,6 +1,6 @@
 ### Repositório público de marceloicampos
 
-<img align="right" src="./imagens/avatar_celo_cris.jpg" width="200">
+<img align="left" src="./imagens/avatar_celo_cris.jpg" width="200">
  
 Links dos meus projetos
 
