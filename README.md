@@ -2,6 +2,8 @@
 
 <img align="center" src="./imagens/avatar_celo_cris.jpg" width="100">
 
+Text
+
 * Text
 * Text
 * Text
