@@ -1,4 +1,8 @@
 ### Repositório público de marceloicampos
+<head>
+  <meta charset="utf-8">
+  <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+</head>
 
 <img align="center" src="./imagens/avatar_celo_cris.jpg" width="100">
 
