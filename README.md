@@ -7,33 +7,32 @@
 
 <img align="center" src="./imagens/avatar_celo_cris.jpg" width="100">
 
-Text
+Quem sou eu ?
 
-* Text
-* Text
-* Text
-* Text
+* Meu nome é Marcelo I Campos
+* Sou estudante entusiata de HTML, CSS e JAVASCRIPT. 
+* Aprendendo (aos 40 anos de vida) a programar e desenvolver.
 
 Links dos meus projetos
 
 <img align="right" src="./imagens/benevocats2.png" width="200">
 
-## Site Hello World
+## Meus Projetos
 
-Text
+Veja abaixo meus projetos de estudos alocados no Git Hub
 
 * [Acesse aqui o projeto Hello World](https://marceloicampos.github.io/site-hello-world/)
-* Text
-* Text
-* Text
+* [Acesse aqui o projeto Glass Html5](https://marceloicampos.github.io/site-glass-html5/)
+* Em Construção
+* Em Construção
 
 <img align="right" src="./imagens/collabocats2.png" width="200">
 
-## Site Glass Html5
+## Minhas redes sociais
 
-Text
+Segue minhas redes sociais e meu e-mail - marceloicampos@outlook.com
 
-* [Acesse aqui o projeto Glass Html5](https://marceloicampos.github.io/site-glass-html5/)
-* Text
-* Text
-* Text
+* [Twitter - É so mais um perfil básico](https://twitter.com/marceloicampos)
+* [Facebook - Acompanha-me no meu perfil](https://www.facebook.com/marceloicampos)
+* [Instagram - Aqui tem algumas fotos minhas](https://www.instagram.com/marceloicampos)
+* [Youtube - Acessa meu canal, não tem vídeo, mas tem perfil](https://www.youtube.com/MICChannel79)
