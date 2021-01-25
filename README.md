@@ -23,8 +23,8 @@ Veja abaixo meus projetos de estudos alocados no Git Hub
 
 * [Acesse aqui o projeto Hello World](https://marceloicampos.github.io/site-hello-world/)
 * [Acesse aqui o projeto Glass Html5](https://marceloicampos.github.io/site-glass-html5/)
-* [Acesse aqui o projeto ReactNext JS](https://marceloicampos.com)
-* Em Construção
+* [Acesse aqui o projeto Site Test JS](https://marceloicampos.github.io/site-test-js/)
+* [Acesse aqui o projeto React Next JS](https://marceloicampos.com)
 
 <img align="right" src="./imagens/collabocats2.png" width="200">
 
@@ -36,4 +36,4 @@ Como falar comigo? Meu e-mail - marceloicampos@outlook.com
 * [Twitter - É so mais um perfil básico, mas é onde busco muitas notícias e informações atualizadas](https://twitter.com/marceloicampos)
 * [Facebook - Acompanha-me no meu perfil do Facebook](https://www.facebook.com/marceloicampos)
 * [Instagram - Aqui tem algumas fotos minhas (nada demais)](https://www.instagram.com/marceloicampos)
-* [Acessa meu canal, não tem vídeo, mas tem perfil e MINHAS PLAYLISTS DE VÍDEOS (vale a pena CONFERIR)](https://www.youtube.com/MICChannel79)
+* [Youtube - Acessa meu canal, não tem vídeo, mas tem perfil e MINHAS PLAYLISTS DE VÍDEOS (vale a pena CONFERIR)](https://www.youtube.com/MICChannel79)
