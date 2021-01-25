@@ -10,7 +10,7 @@
 Quem sou eu ?
 
 * Meu nome é Marcelo I Campos
-* Sou estudante entusiata de HTML, CSS e JAVASCRIPT. 
+* Sou estudante aficionado de HTML, CSS e JAVASCRIPT. 
 * Aprendendo (aos 40 anos de vida) a programar e desenvolver.
 
 Links dos meus projetos
@@ -23,16 +23,17 @@ Veja abaixo meus projetos de estudos alocados no Git Hub
 
 * [Acesse aqui o projeto Hello World](https://marceloicampos.github.io/site-hello-world/)
 * [Acesse aqui o projeto Glass Html5](https://marceloicampos.github.io/site-glass-html5/)
-* Em Construção
+* [Acesse aqui o projeto ReactNext JS](https://marceloicampos.com)
 * Em Construção
 
 <img align="right" src="./imagens/collabocats2.png" width="200">
 
 ## Minhas redes sociais
 
-Segue minhas redes sociais e meu e-mail - marceloicampos@outlook.com
+Como falar comigo? Meu e-mail - marceloicampos@outlook.com
 
-* [Twitter - É so mais um perfil básico](https://twitter.com/marceloicampos)
-* [Facebook - Acompanha-me no meu perfil](https://www.facebook.com/marceloicampos)
-* [Instagram - Aqui tem algumas fotos minhas](https://www.instagram.com/marceloicampos)
-* [Youtube - Acessa meu canal, não tem vídeo, mas tem perfil](https://www.youtube.com/MICChannel79)
+* [GitHub - Aqui você encontra meus trabalhos em desenvolvimento (com muitas dicas boas)](https://github.com/marceloicampos)
+* [Twitter - É so mais um perfil básico, mas é onde busco muitas notícias e informações atualizadas](https://twitter.com/marceloicampos)
+* [Facebook - Acompanha-me no meu perfil do Facebook](https://www.facebook.com/marceloicampos)
+* [Instagram - Aqui tem algumas fotos minhas (nada demais)](https://www.instagram.com/marceloicampos)
+* [Acessa meu canal, não tem vídeo, mas tem perfil e MINHAS PLAYLISTS DE VÍDEOS (vale a pena CONFERIR)](https://www.youtube.com/MICChannel79)
