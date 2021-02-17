@@ -36,4 +36,4 @@ Como falar comigo? Meu e-mail - marceloicampos@outlook.com
 * [Twitter - É so mais um perfil básico, mas é onde busco muitas notícias e informações atualizadas](https://twitter.com/marceloicampos)
 * [Facebook - Acompanha-me no meu perfil do Facebook](https://www.facebook.com/marceloicampos)
 * [Instagram - Aqui tem algumas fotos minhas (nada demais)](https://www.instagram.com/marceloicampos)
-* [Youtube - Acessa meu canal, não tem vídeo, mas tem perfil e MINHAS PLAYLISTS DE VÍDEOS (vale a pena CONFERIR)](https://www.youtube.com/MICChannel79)
+* [Youtube - Acessa meu canal, não tem vídeo, mas tem perfil e MINHAS PLAYLISTS DE VÍDEOS (vale a pena CONFERIR)](https://www.youtube.com/user/MICChannel79/playlists)
