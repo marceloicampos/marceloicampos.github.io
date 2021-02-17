@@ -23,7 +23,7 @@ Veja abaixo meus projetos de estudos alocados no Git Hub
 
 * [Acesse aqui o projeto Hello World](https://marceloicampos.github.io/site-hello-world/)
 * [Acesse aqui o projeto Glass Html5](https://marceloicampos.github.io/site-glass-html5/)
-* [Acesse aqui o projeto Site Test JS](https://marceloicampos.github.io/site-test-js/)
+* [Acesse aqui o projeto Site Test JS](https://marceloicampos.github.io/site-test-javascript/)
 * [Acesse aqui o projeto React Next JS](https://marceloicampos.com)
 
 <img align="right" src="./imagens/collabocats2.png" width="200">
