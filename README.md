@@ -41,6 +41,7 @@ Veja abaixo meus projetos de estudos alocados no Git Hub
 
 Como falar comigo? Meu e-mail - marceloicampos@outlook.com
 
+-   [LinkedIn - Meu LinkedIn](https://www.linkedin.com/in/marceloicampos/)
 -   [GitHub - Aqui você encontra meus trabalhos em desenvolvimento (com muitas dicas boas)](https://github.com/marceloicampos)
 -   [Twitter - É so mais um perfil básico, mas é onde busco muitas notícias e informações atualizadas](https://twitter.com/marceloicampos)
 -   [Facebook - Acompanha-me no meu perfil do Facebook](https://www.facebook.com/marceloicampos)
