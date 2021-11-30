@@ -33,6 +33,9 @@ Veja abaixo meus projetos de estudos alocados no Git Hub
 -   [Acesse aqui o projeto Imersão DEV\_](https://marceloicampos.github.io/alura-imersaodev03/)
 -   [Acesse aqui o projeto Imersão React](https://imersao-react-quiz-html-css-git-main.marceloicampos.vercel.app/)
 -   [Acesse aqui o projeto NLW4 NextJS](https://miy-nlw-04-nextjs-git-main-marceloicampos.vercel.app/)
+-   [Acesse aqui o projeto NLW7 My-Name-Tag](https://marceloicampos.github.io/nlw07-mynametag-html-css-js/)
+-   [Acesse aqui o Github Explorer - Ignite Classes]([https](https://ignite-desafio01-trilha-reactjs.vercel.app/))
+-   [Acesse aqui o To Do List - Ignite Desafio 01]([https](https://ignite-desafio01-trilha-reactjs.vercel.app/))
 -   [My Page](https://marceloicampos.com/about)
 
 <img align="right" src="./imagens/collabocats2.png" width="200">
