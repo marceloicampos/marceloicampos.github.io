@@ -19,7 +19,8 @@ Links dos meus projetos
 
 Veja abaixo meus cursos,
 
--   [Meus Cursos em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/marcelo-campos/)
+-   [Curso em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/marcelo-campos/)
+-   [Alura Cursos](https://cursos.alura.com.br/user/marceloicampos)
 
 <img align="right" src="./imagens/benevocats2.png" width="200">
 
