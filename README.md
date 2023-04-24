@@ -7,9 +7,8 @@
 
 Quem sou eu ?
 
--   Meu nome é Marcelo Ildefonso Campos
--   Sou estudante aficionado de HTML, CSS e JAVASCRIPT.
--   Aprendendo (aos 40 anos de vida) a programar e desenvolver.
+-   Meu nome é Marcelo Campos
+-   TI, estudante e entusiasta por tecnologia. Aprendendo a programar e desenvolver aos 4.0 de vida.
 
 Links dos meus projetos
 
