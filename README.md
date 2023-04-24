@@ -5,8 +5,6 @@
   <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
 </head>
 
-<img align="center" src="./imagens/avatar_celo_cris.jpg" width="100">
-
 Quem sou eu ?
 
 -   Meu nome é Marcelo Ildefonso Campos
